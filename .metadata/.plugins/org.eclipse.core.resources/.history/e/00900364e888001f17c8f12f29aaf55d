@@ -1,0 +1,20 @@
+package a1_variable;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int a = 25;
+		double b = 23.3;
+		byte c = 12;
+		short d = 122;
+		long e = 12751987;
+		char f = 'k';
+		float g = (float) 12.2;
+		String h = "kutay";
+		
+		System.out.println(a);
+		System.out.println(b);
+
+	}
+
+}
