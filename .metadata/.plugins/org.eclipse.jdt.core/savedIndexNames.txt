@@ -1,3 +1,3 @@
-INDEX VERSION 1.134+C:\Users\KUTAY\Desktop\Java Projeleri\Çalışmalar\.metadata\.plugins\org.eclipse.jdt.core
+INDEX VERSION 1.134+C:\Users\KUTAY\Desktop\Java\Çalışmalar\.metadata\.plugins\org.eclipse.jdt.core
 1347135327.index
 1865797976.index
