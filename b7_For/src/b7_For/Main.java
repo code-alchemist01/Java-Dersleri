@@ -10,8 +10,10 @@ public class Main {
 		 */
 		
 		for(int i = 0; i < 100; i++) {
-			System.out.println("Kutay Aslıyı Seviyor");
+			System.out.println("Kutay Aslıyı Seviyor"); // 0 dan başlatarak bir bir 100 olana kadar arttırıp duruyor
 		}
+		
+		
 		
 
 	}
