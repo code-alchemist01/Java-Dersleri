@@ -1,4 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="e4_Composition.Resolution"/>
+    <fullyQualifiedTypeName name="e4_Composition.Monitor"/>
+    <fullyQualifiedTypeName name="e4_Composition.Kasa"/>
+    <fullyQualifiedTypeName name="e4_Composition.Anakart"/>
+    <fullyQualifiedTypeName name="e4_Composition.Bilgisayar"/>
+    <fullyQualifiedTypeName name="e5_Encapsulation.Abone"/>
+    <fullyQualifiedTypeName name="e5_Encapsulation.GelismisAbone"/>
+    <fullyQualifiedTypeName name="e6_Polymorphism.Hayvan"/>
+    <fullyQualifiedTypeName name="e6_Polymorphism.Kedi"/>
+    <fullyQualifiedTypeName name="e6_Polymorphism.Kopek"/>
+    <fullyQualifiedTypeName name="e6_Polymorphism.Eşşek"/>
+    <fullyQualifiedTypeName name="e7_Polymophism2.Kopek"/>
+    <fullyQualifiedTypeName name="e8_BeybladeProject.Dragon"/>
+    <fullyQualifiedTypeName name="e8_BeybladeProject.Draciel"/>
+    <fullyQualifiedTypeName name="e8_BeybladeProject.Drayga"/>
+    <fullyQualifiedTypeName name="e8_BeybladeProject.Dranza"/>
+    <fullyQualifiedTypeName name="e8_BeybladeProject.Main"/>
+    <fullyQualifiedTypeName name="e8_BeybladeProject.Beyblade"/>
+    <fullyQualifiedTypeName name="e8_BeybladeProject.beybladeFabrikası"/>
 </qualifiedTypeNameHistroy>
