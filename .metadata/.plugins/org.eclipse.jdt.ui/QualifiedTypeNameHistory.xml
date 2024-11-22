@@ -20,4 +20,12 @@
     <fullyQualifiedTypeName name="e8_BeybladeProject.Main"/>
     <fullyQualifiedTypeName name="e8_BeybladeProject.Beyblade"/>
     <fullyQualifiedTypeName name="e8_BeybladeProject.beybladeFabrikası"/>
+    <fullyQualifiedTypeName name="int"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="f4_HafızaOyunu.Kart"/>
+    <fullyQualifiedTypeName name="f7_SarkiciProjesi.Sarkicilar"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.LinkageError"/>
+    <fullyQualifiedTypeName name="java.util.ListIterator"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
 </qualifiedTypeNameHistroy>
